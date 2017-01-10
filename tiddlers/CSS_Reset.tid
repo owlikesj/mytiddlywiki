@@ -1,0 +1,17 @@
+created: 20170110070103923
+modified: 20170110070137799
+tags: CSS
+title: CSS Reset
+type: text/vnd.tiddlywiki
+
+样式重置。
+
+不同的浏览器默认样式设置不一致，为了在不同的浏览器中能得到一致的表现，开始给网页编写样式前，需要对这些默认设置进行重置。
+
+CSS Reset是一种归零的思想。
+
+最流行的几个样式重置在这里：[[http://cssreset.com/]]
+
+其他解释：
+
+* [[What Is A CSS Reset?| http://cssreset.com/what-is-a-css-reset/]]
