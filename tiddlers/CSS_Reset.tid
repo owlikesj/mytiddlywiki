@@ -1,5 +1,5 @@
 created: 20170110070103923
-modified: 20170110070137799
+modified: 20170110072259874
 tags: CSS
 title: CSS Reset
 type: text/vnd.tiddlywiki
@@ -10,8 +10,8 @@ type: text/vnd.tiddlywiki
 
 CSS Reset是一种归零的思想。
 
-最流行的几个样式重置在这里：[[http://cssreset.com/]]
+最流行的几个样式重置在这里：http://cssreset.com/
 
 其他解释：
 
-* [[What Is A CSS Reset?| http://cssreset.com/what-is-a-css-reset/]]
+* [ext[What Is A CSS Reset?| http://cssreset.com/what-is-a-css-reset/]]
